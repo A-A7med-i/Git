@@ -22,7 +22,7 @@ git restor file.txt
 
 ![restor](https://github.com/A-A7med-i/Git/blob/main/Images/restor.jpg?raw=true)
 
-### After restor
+### After restor the file is updated 
 ![After restore](https://github.com/A-A7med-i/Git/blob/main/Images/After%20restor.jpg?raw=true)
 
 ## 3- unstaged file
@@ -37,7 +37,7 @@ git restor --staged file.txt
 
 ![unstaged](https://github.com/A-A7med-i/Git/blob/main/Images/unstaged.jpg?raw=true)
 
-### After unstaged
+### After unstaged file not updated 
 ![edite unstaged](https://github.com/A-A7med-i/Git/blob/main/Images/edite%20unstaged.jpg?raw=true)
 
 ## 4- Head
