@@ -54,7 +54,7 @@ git branch -d name of branch
 ![non linear 1](https://github.com/A-A7med-i/Git/blob/main/Images/non%20linear%201.jpg?raw=true)
 ### In branch master i create a commit
 ![non linear 2](https://github.com/A-A7med-i/Git/blob/main/Images/non%20linear%202.jpg?raw=true)
-### Edite the name of branch master to main then i merge test in main
+### Edite the name of branch master to main then i merge test in main see the graph easy to understand 
 ![non linear 3](https://github.com/A-A7med-i/Git/blob/main/Images/non%20linear%203.jpg?raw=true)
 
 # Working with remote
