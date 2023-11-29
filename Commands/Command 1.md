@@ -77,7 +77,7 @@ git cat-file  -p first 7 char of shasum
 
 ![log](https://github.com/A-A7med-i/Git/blob/main/Images/log.jpg?raw=true)
 
-## 6- Now i modify the file
+## 6- Now i modify the file and make commit
 
 ![modify file](https://github.com/A-A7med-i/Git/blob/main/Images/modify%20file.jpg?raw=true)
 
