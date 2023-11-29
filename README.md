@@ -10,4 +10,4 @@ git clone https://github.com/A-A7med-i/Git.git
 ```
 # Recommendation
 ## I recommend the following website
-[https://www.geeksforgeeks.org/git-tutorial/?ref=gcse](gfg)
+[Git Tutorial](https://www.geeksforgeeks.org/git-tutorial/?ref=gcse)
