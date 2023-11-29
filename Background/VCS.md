@@ -5,8 +5,7 @@ Basically Version control system keeps track on changes made on a particular sof
 # Types of Version Control Systems : 
 
 ## 1- Local Version control
-
-![LVC](https://th.bing.com/th/id/R.209e81a428413f53c9b1ab76e3bb23c2?rik=mjRmeknxfFZV1g&riu=http%3a%2f%2fgit-scm.com%2fbook%2fen%2fv2%2fbook%2f01-introduction%2fimages%2flocal.png&ehk=EY2XGW%2fUb0SHeg9FMHe1gIoC4b2PB2EowZrNJfmhzJQ%3d&risl=&pid=ImgRaw&r=0)
+<img src="https://th.bing.com/th/id/R.209e81a428413f53c9b1ab76e3bb23c2?rik=mjRmeknxfFZV1g&riu=http%3a%2f%2fgit-scm.com%2fbook%2fen%2fv2%2fbook%2f01-introduction%2fimages%2flocal.png&ehk=EY2XGW%2fUb0SHeg9FMHe1gIoC4b2PB2EowZrNJfmhzJQ%3d&risl=&pid=ImgRaw&r=0" width=600 height=350 />
 
 ## 2- Centralized Version Control 
 ## Centralized version control systems contain just one repository globally and every user need to commit for reflecting one’s changes in the repository.
