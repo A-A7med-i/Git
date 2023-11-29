@@ -53,7 +53,7 @@ git add .
 ```shell
 git commit -m "message"
 ```
-![commit](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
+![commit](https://github.com/A-A7med-i/Git/blob/main/Images/commit.jpg?raw=true)
 
 ## 5- Track commit
 
@@ -63,7 +63,7 @@ git log
 ```shell
 git log --oneline
 ```
-![log oneline](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
+![log oneline](https://github.com/A-A7med-i/Git/blob/main/Images/long%20oneline.jpg?raw=true)
 
 ```shell
 git cat-file  -t first 7 char of shasum
@@ -75,24 +75,21 @@ git cat-file  -p first 7 char of shasum
 * -t is the type 
 * -p show the content 
 
-![log](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
+![log](https://github.com/A-A7med-i/Git/blob/main/Images/log.jpg?raw=true)
 
 ## 6- Now i modify the file
 
-![modify file](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
+![modify file](https://github.com/A-A7med-i/Git/blob/main/Images/modify%20file.jpg?raw=true)
 
-* from above :
+* from point 3 & 4 :
 ### (M red) =>  A file not in index area and .git 
 ### (M green) =>  A file in index area and not in .git
 
-![parent](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
+![parent](https://github.com/A-A7med-i/Git/blob/main/Images/parent.jpg?raw=true)
 
 * from above the last commit point to the previous commit
 
-![parent](https://github.com/A-A7med-i/Git/blob/main/Images/added.jpg?raw=true)
-
 ![Flow](https://th.bing.com/th/id/OIP.eExDR06JzW6NMPg7vkG3ngHaET?rs=1&pid=ImgDetMain)
-
 
 ## 7- Difference 
 
@@ -102,7 +99,7 @@ git cat-file  -p first 7 char of shasum
 git diff
 ```
 
-![diff](https://th.bing.com/th/id/OIP.eExDR06JzW6NMPg7vkG3ngHaET?rs=1&pid=ImgDetMain)
+![diff](https://github.com/A-A7med-i/Git/blob/main/Images/diff.jpg?raw=true)
 
 
 ## 8- show 
@@ -113,4 +110,4 @@ git diff
 git show first 7 char of shasum
 ```
 
-![show](https://th.bing.com/th/id/OIP.eExDR06JzW6NMPg7vkG3ngHaET?rs=1&pid=ImgDetMain)
+![show](https://github.com/A-A7med-i/Git/blob/main/Images/show.jpg?raw=true)
